@@ -117,6 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="native_to_managed.h" />
+    <ClInclude Include="native_to_managed.impl.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="native_to_managed.cpp" />

@@ -9,6 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dotnet-interop-cpp-console"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-interop-managed-lib", "dotnet-interop-managed-lib\dotnet-interop-managed-lib.csproj", "{30C0E580-C5BF-455A-83CE-74DB10B5DFDE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2835ABDD-B04A-40C9-A331-2F749E4E758B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

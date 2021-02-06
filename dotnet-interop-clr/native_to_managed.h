@@ -13,7 +13,9 @@
 
 
 /// <summary>
-/// This is your native side class, you need the impl to hide the GC class
+/// This is your native side class, you need the impl to hide the GC class, so that your 
+/// fully native projects can include this, without needing the CLR.
+/// 
 /// </summary>
 
 class DLL_API native_to_managed
